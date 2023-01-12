@@ -1,0 +1,69 @@
+fieldset {
+	width:340px;
+	border:3px groove black;
+	
+	
+}
+body {
+	width:100%;
+	height:800px;
+	background-image:url(Reklama.jpg);
+	background-position:fixed;
+	background-attachment:no-repeat;
+	background-position:center;
+	background-image:url(RedWolf_tm_1000.png);
+    background-repeat:no-repeat;
+    background-color:grey;	
+	background-attachment:fixed;
+	
+}
+legend {
+	font-weight:bold;
+	font-size:22px;	
+	color:turquoise;
+}
+div.head {
+	color:;
+	width:560px;
+	height:60px;
+	border:double red 7px;
+	font-size:35px;
+	padding-left:200px;
+}
+span.red {
+	color:red;
+	font-size:39px;
+}
+p {
+	float:right;
+	padding-right:130px;
+	font-size:17px;
+	font-weight:bold;
+}
+span.re {
+	color:red;
+	font-style:italic;
+}
+.a {
+	
+	margin-left:344px;
+	border:groove 4px red;
+}
+form {
+	float:left;
+}
+input {
+	background-color:grey;
+}
+textarea {
+	background-color:grey;
+}
+select {
+	background-color:grey;
+}
+placeholder {
+	color:red;
+}
+span.t {
+	color:#006400;
+}
